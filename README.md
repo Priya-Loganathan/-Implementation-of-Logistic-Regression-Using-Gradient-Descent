@@ -142,8 +142,26 @@ np.mean(predict(res.x,x)==y)
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
-
+### Array Value of x:
+![image](https://github.com/Priya-Loganathan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121166075/13958cfe-acfa-4bef-be02-8e63b5ba23e0)
+### Array Value of y:
+![image](https://github.com/Priya-Loganathan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121166075/a78e98e4-665c-4274-8e51-af590c355202)
+### Score Graph:
+![image](https://github.com/Priya-Loganathan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121166075/d96d4d9d-ea76-476f-95a1-1972193f2fce)
+### Sigmoid function graph:
+![image](https://github.com/Priya-Loganathan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121166075/f2d149ba-35ab-4ab5-bf5b-ef0507c89226)
+### X_train_grad value:
+![image](https://github.com/Priya-Loganathan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121166075/cdfb71e2-ca56-4d7a-b8e3-7866562421d3)
+### Y_train_grad value:
+![image](https://github.com/Priya-Loganathan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121166075/8be5a08a-5391-4993-ba3e-d2ea883904f0)
+### res.X:
+![image](https://github.com/Priya-Loganathan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121166075/0dc0b5a3-9872-42fd-ad21-fa2b626bdced)
+### Decision Boundary:
+![image](https://github.com/Priya-Loganathan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121166075/cbc04f51-dfdd-4b1d-b3fa-dd2b677df60d)
+### Probability value:
+![image](https://github.com/Priya-Loganathan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121166075/6b44222b-1adc-4298-96cd-4e889ce0dd70)
+### Prediction value of mean:
+![image](https://github.com/Priya-Loganathan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121166075/43953b43-1d9f-405b-8c2b-5527c7ea2cc6)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
